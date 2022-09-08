@@ -17,7 +17,7 @@ Before starting, make sure you have a somewhat modern version of python 3.7 or h
 5.	For each file in the folder run: `pip install <filename>` for example : `pip install GDAL-3.4.3-cp310-cp310-win_amd64.whl` the recommended order: GDAL, pyproj, Fiona, Shapely  
 6.	When all files are installed correctly the final step is to run: `pip install geopandas`
 	
-OPTIONAL: when using pyhon for data science, working with Jupyter Lab is often required. Required: NodeJS to be installed.
+OPTIONAL: When using pyhon for data science, working with Jupyter Lab is often desired (Requires NodeJS to be installed).
 
 8.	`pip install jupyterlab`
 9.	`jupyter-lab`
