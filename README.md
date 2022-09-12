@@ -1,8 +1,8 @@
 # GIS-with-Geopandas
 Working with geopandas
 
-# Installation
-Installing geopandas should be as simple as running pip install geopandas or conda install geopandas but for me, both methods failed to install or function properly on windows (on MacOS pip does seem to work)
+# Installation on windows 10
+Installing geopandas should be as simple as running `pip install geopandas` or `conda install geopandas` but for me, both methods failed to install or function properly on windows (on MacOS pip does seem to work)
 
 A more reliable installation procedure is as follows:
 
